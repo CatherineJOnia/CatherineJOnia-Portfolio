@@ -1,11 +1,36 @@
-import engineer from "../assets/engineer.png";
-import frontend from "../assets/frontend.png";
-import backend from "../assets/backend.png";
-import game from "../assets/game.png";
-import openai from "../assets/openai.png";
-import logo from "../assets/logo.svg";
-import Toad from "../assets/Toad.png";
-import fullstack from "../assets/fullstack.png";
+import {
+  engineer,
+  frontend,
+  backend,
+  game,
+  openai,
+  logo,
+  Toad,
+  fullstack,
+  javascript,
+  typescript,
+  react,
+  redux,
+  nextjs,
+  expressjs,
+  nodejs,
+  postgresql,
+  sequelize,
+  firebase,
+  nextauthjs,
+  webpack,
+  materialui,
+  css3,
+  html5,
+  tailwindcss,
+  sass,
+  threejs,
+  npm,
+  vscode,
+  git,
+  github,
+  slack,
+} from "../assets";
 
 export const navLinks = [
   {
@@ -97,5 +122,100 @@ export const experiences = [
       "Collaborated with other team members, students, mentors, and instructors using Slack as a primary communication tool to facilitate effective communication and improve productivity.",
       "Utilized Git and GitHub to manage version control and collaborate with other developers on team projects, demonstrating proficiency in managing code changes, branching and merging, and code reviews.",
     ],
+  },
+];
+
+export const technologies = [
+  {
+    name: "JavaScript",
+    icon: javascript,
+  },
+  {
+    name: "TypeScript",
+    icon: typescript,
+  },
+  {
+    name: "React",
+    icon: react,
+  },
+  {
+    name: "Redux",
+    icon: redux,
+  },
+  {
+    name: "Next.js",
+    icon: nextjs,
+  },
+  {
+    name: "Express.js",
+    icon: expressjs,
+  },
+  {
+    name: "Node.js",
+    icon: nodejs,
+  },
+  {
+    name: "PostgreSQL",
+    icon: postgresql,
+  },
+  {
+    name: "Sequelize",
+    icon: sequelize,
+  },
+  {
+    name: "Firebase",
+    icon: firebase,
+  },
+  {
+    name: "NextAuth.js",
+    icon: nextauthjs,
+  },
+  {
+    name: "Webpack",
+    icon: webpack,
+  },
+  {
+    name: "Material UI",
+    icon: materialui,
+  },
+  {
+    name: "CSS 3",
+    icon: css3,
+  },
+  {
+    name: "HTML 5",
+    icon: html5,
+  },
+  {
+    name: "Tailwind CSS",
+    icon: tailwindcss,
+  },
+  {
+    name: "Sass",
+    icon: sass,
+  },
+  {
+    name: "Three.js",
+    icon: threejs,
+  },
+  {
+    name: "npm",
+    icon: npm,
+  },
+  {
+    name: "VS Code",
+    icon: vscode,
+  },
+  {
+    name: "Git",
+    icon: git,
+  },
+  {
+    name: "GitHub",
+    icon: github,
+  },
+  {
+    name: "Slack",
+    icon: slack,
   },
 ];
