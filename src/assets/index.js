@@ -29,8 +29,12 @@ import tailwindcss from "./tech/tailwindcss.png";
 // import npm from "./tech/npm.png";
 // import vscode from "./tech/vscode.svg";
 import git from "./tech/git.png";
-// import github from "./tech/github.png";
+import github from "./tech/github.png";
 // import slack from "./tech/slack.svg";
+
+import ChatOnia from "./ChatOnia.png";
+import DinGo from "./DinGo.png";
+import ToadsGarden from "./ToadsGarden.png";
 
 export {
   engineer,
@@ -62,6 +66,9 @@ export {
   // npm,
   // vscode,
   git,
-  // github,
+  github,
   // slack,
+  ChatOnia,
+  DinGo,
+  ToadsGarden,
 };

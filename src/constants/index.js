@@ -30,6 +30,9 @@ import {
   git,
   // github,
   // slack,
+  ChatOnia,
+  DinGo,
+  ToadsGarden,
 } from "../assets";
 
 export const navLinks = [
@@ -218,4 +221,130 @@ export const technologies = [
   //   name: "Slack",
   //   icon: slack,
   // },
+];
+
+export const projects = [
+  {
+    name: "ChatOnia",
+    description:
+      "A software application that emulates the functionality of the ChatGPT model, using natural language processing and machine learning techniques to generate human-like responses to user input.",
+    tags: [
+      {
+        name: "TypeScript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Next.js 13",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "NextAuth.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "OpenAI APIs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Firebase",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: ChatOnia,
+    source_code_link: "https://github.com/CatherineJOnia/ChatOnia",
+  },
+  {
+    name: "DinGo",
+    description:
+      "A custom single-page application eCommerce website with both user and administrative features.",
+    tags: [
+      {
+        name: "JavaScript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "React",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Redux Toolkit",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "PostgreSQL",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Sequelize",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Express.js",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Node.js",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "RESTapi",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Material UI",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "CSS 3",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "HTML 5",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "JWT",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Webpack",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: DinGo,
+    source_code_link: "https://github.com/CatherineJOnia/DinGo",
+  },
+  {
+    name: "Toad's Garden",
+    description:
+      "A wholesome 2D side-scrolling platformer game starring familiar characters.  Players play as Toad and collect objectives while avoiding wildlife.",
+    tags: [
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Phaser 3",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tiled Map Editor",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Webpack",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Git Version Control",
+        color: "green-text-gradient",
+      },
+    ],
+    image: ToadsGarden,
+    source_code_link: "https://github.com/toads-garden/toads-garden-web",
+  },
 ];
