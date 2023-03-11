@@ -5,6 +5,7 @@ import {
   game,
   openai,
   logo,
+  OniaLogo,
   Toad,
   fullstack,
   javascript,
@@ -33,6 +34,15 @@ import {
   ChatOnia,
   DinGo,
   ToadsGarden,
+  Kara,
+  Sarah,
+  Marcela,
+  Lindsay,
+  Madeleine,
+  Yama,
+  cpcc,
+  tooth,
+  uncc,
 } from "../assets";
 
 export const navLinks = [
@@ -86,8 +96,8 @@ export const experiences = [
   {
     title: "Solo eCommerce Developer",
     company_name: "DinGo -- for Dinner on the Go",
-    icon: logo,
-    iconBg: "#231f20",
+    icon: OniaLogo,
+    iconBg: "#ffffff",
     date: "March 2023",
     points: [
       "Designed and developed a full-stack web application using four database models: user, product, cart, and order.",
@@ -346,5 +356,104 @@ export const projects = [
     ],
     image: ToadsGarden,
     source_code_link: "https://github.com/toads-garden/toads-garden-web",
+  },
+];
+
+export const testimonials = [
+  {
+    testimonial:
+      "Catherine has a natural affinity for all things tech, and has been able to pick up new and challenging concepts much more quickly than average. Most importantly, she is a great friend and teammate to those she works with, and is tenacious, thoughtful, and modest when overcoming obstacles. ",
+    name: "Kara Cavanaugh",
+    designation: "Instructor",
+    company: "FSA Grace Hopper Program",
+    image: Kara,
+  },
+  {
+    testimonial:
+      "Catherine never backed down from any challenges she faced while building complex projects. She is a gifted developer and is an asset to any team.",
+    name: "Sarah Lozier",
+    designation: "Mentor",
+    company: "FSA Grace Hopper Program",
+    image: Sarah,
+  },
+  {
+    testimonial:
+      "Catherine always communicated her thought-process clearly with the team, and her attention to detail helped elevate the project's user experience and interface. She also excelled in time management and ensuring we were targeting all the project's milestones.",
+    name: "Marcela Alonso",
+    designation: "Capstone Teammate",
+    company: "FSA Grace Hopper Program",
+    image: Marcela,
+  },
+  {
+    testimonial:
+      "Catherine was wonderful to work with as she was consistently willing to collaborate and review code in order to find the best solution to every problem.",
+    name: "Lindsay Powell",
+    designation: "Capstone Teammate",
+    company: "FSA Grace Hopper Program",
+    image: Lindsay,
+  },
+  {
+    testimonial:
+      "Catherine and I were in the same Grace Hopper cohort, and I would recommend her unreservedly for open dev roles or anyone looking for someone to collaborate with. Throughout the program, it was clear that in addition to her natural tech acumen, Cat was an incredibly hard worker and dedicated student with a real passion for learning new things and a willingness to take on whatever tasks are necessary to help the group.",
+    name: "Madeleine Lloyd-Davies",
+    designation: "Cohort Peer",
+    company: "FSA Grace Hopper Program",
+    image: Madeleine,
+  },
+];
+
+export const backgrounds = [
+  {
+    title: "Server",
+    company_name: "Yama",
+    icon: Yama,
+    iconBg: "#000000",
+    date: "February 2019 - February 2023",
+    points: [
+      "Managed approximately 10 tables at a time, facilitating communication between 40 guests and kitchen staff.",
+      "Generated over $350,000 in annual revenue for the company.",
+      "Trained 100% of new employees on company culture.",
+    ],
+  },
+  {
+    title: "Dental Hygiene Intern",
+    company_name: "CPCC Dental Hygiene Clinic",
+    icon: cpcc,
+    iconBg: "#ffffff",
+    date: "January 2019 - June 2021",
+    points: [
+      "Responsible for sourcing all patients.",
+      "Performed 4-6 patient procedures per week including cleanings, x-rays, sealands and debridements.",
+      "Developed and implemented individualized dental care plans for a diverse set of patients -- peridontal maintenance, pediatric, elderly, non English speaking, blind, etc.",
+      "Improved patient gingival inflammation and plaque removal by 20-40% by counseling patients on the state of their oral health and educating them on best practices for maintenance at home.",
+      "Maintained a 100% patient satisfaction score on patient education and satisfactions surveys.",
+    ],
+  },
+  {
+    title: "Dental Assistant I",
+    company_name: "Lincoln Devon Dental",
+    icon: tooth,
+    iconBg: "#ffffff",
+    date: "July 2017 - January 2019",
+    points: [
+      "Boosted efficiency of patient procedures by 30%, increasing daily appointment availability from 6 to 10 as the first and only dental assistant in the office.",
+      "Modernized the record-keeping system by inputting 100% of the office's paper patient records and notes on a new digitized platform.",
+      "Spearheaded appointment reminder program, sending automated appointment reminders ahead of visit that reduced instance of no-shows by 85%.",
+      "Organized efficient stockroom system, cutting annual costs by $20,000 in a small, single-dentist office.",
+    ],
+  },
+  {
+    title: "Bachelor's of Biological Sciences",
+    company_name: "University of North Carolina at Charlotte",
+    icon: uncc,
+    iconBg: "#005826",
+    date: "August 2013 - May 2017",
+    points: [
+      "Awarded 4-year full-ride scholarship merit scholarship based on a competitive application and interview process of over 20,000 applicants.",
+      "Graduated with honors in Biological Sciences after defending academic thesis.",
+      "Graduated Cum Laude based on academic performance.",
+      "Participated in Club Tennis after graduating high school with four years of varsity experience.",
+      "Co-founded Filipino-American Student Union, promoting the organization from 3 founding members to over 120 active members.",
+    ],
   },
 ];

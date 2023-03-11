@@ -7,6 +7,7 @@ import Experience from "./components/Experience";
 import Tech from "./components/Tech";
 import Projects from "./components/Projects";
 import Feedbacks from "./components/Feedbacks";
+import Background from "./components/Background";
 import Contact from "./components/Contact";
 import StarsCanvas from "./components/StarsCanvas";
 
@@ -23,6 +24,7 @@ const App = () => {
         <Tech />
         <Projects />
         <Feedbacks />
+        <Background />
         <div className='relative z-0'>
           <Contact />
           <StarsCanvas />

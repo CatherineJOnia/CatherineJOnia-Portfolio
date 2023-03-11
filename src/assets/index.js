@@ -3,10 +3,11 @@ import frontend from "./frontend.png";
 import backend from "./backend.png";
 import game from "./game.png";
 
-import openai from "./openai.png";
+import openai from "./experience/openai.png";
 import logo from "./logo.svg";
-import Toad from "./Toad.png";
-import fullstack from "./fullstack.png";
+import OniaLogo from "./OniaLogo.png";
+import Toad from "./experience/Toad.png";
+import fullstack from "./experience/fullstack.png";
 
 import javascript from "./tech/javascript.png";
 import typescript from "./tech/typescript.png";
@@ -36,6 +37,17 @@ import ChatOnia from "./ChatOnia.png";
 import DinGo from "./DinGo.png";
 import ToadsGarden from "./ToadsGarden.png";
 
+import Kara from "./testimonials/Kara.jpeg";
+import Sarah from "./testimonials/Sarah.jpeg";
+import Marcela from "./testimonials/Marcela.jpeg";
+import Lindsay from "./testimonials/Lindsay.jpeg";
+import Madeleine from "./testimonials/Madeleine.jpeg";
+
+import Yama from "./experience/Yama.png";
+import tooth from "./experience/tooth.png";
+import cpcc from "./experience/cpcc.png";
+import uncc from "./experience/uncc.png";
+
 export {
   engineer,
   frontend,
@@ -43,6 +55,7 @@ export {
   game,
   openai,
   logo,
+  OniaLogo,
   Toad,
   fullstack,
   javascript,
@@ -71,4 +84,13 @@ export {
   ChatOnia,
   DinGo,
   ToadsGarden,
+  Kara,
+  Sarah,
+  Marcela,
+  Lindsay,
+  Madeleine,
+  Yama,
+  tooth,
+  cpcc,
+  uncc,
 };
