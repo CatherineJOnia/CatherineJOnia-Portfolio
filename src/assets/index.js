@@ -12,25 +12,25 @@ import javascript from "./tech/javascript.png";
 import typescript from "./tech/typescript.png";
 import react from "./tech/react.png";
 import redux from "./tech/redux.png";
-import nextjs from "./tech/nextjs.png";
-import expressjs from "./tech/expressjs.png";
+// import nextjs from "./tech/nextjs.png";
+// import expressjs from "./tech/expressjs.png";
 import nodejs from "./tech/nodejs.png";
 import postgresql from "./tech/postgresql.png";
-import sequelize from "./tech/sequelize.png";
+// import sequelize from "./tech/sequelize.png";
 import firebase from "./tech/firebase.png";
-import nextauthjs from "./tech/nextauthjs.png";
-import webpack from "./tech/webpack.png";
+// import nextauthjs from "./tech/nextauthjs.png";
+// import webpack from "./tech/webpack.png";
 import materialui from "./tech/materialui.svg";
 import css3 from "./tech/css3.png";
 import html5 from "./tech/html5.png";
 import tailwindcss from "./tech/tailwindcss.png";
-import sass from "./tech/sass.svg";
-import threejs from "./tech/threejs.svg";
-import npm from "./tech/npm.png";
-import vscode from "./tech/vscode.svg";
+// import sass from "./tech/sass.svg";
+// import threejs from "./tech/threejs.svg";
+// import npm from "./tech/npm.png";
+// import vscode from "./tech/vscode.svg";
 import git from "./tech/git.png";
-import github from "./tech/github.png";
-import slack from "./tech/slack.svg";
+// import github from "./tech/github.png";
+// import slack from "./tech/slack.svg";
 
 export {
   engineer,
@@ -45,23 +45,23 @@ export {
   typescript,
   react,
   redux,
-  nextjs,
-  expressjs,
+  // nextjs,
+  // expressjs,
   nodejs,
   postgresql,
-  sequelize,
+  // sequelize,
   firebase,
-  nextauthjs,
-  webpack,
+  // nextauthjs,
+  // webpack,
   materialui,
   css3,
   html5,
   tailwindcss,
-  sass,
-  threejs,
-  npm,
-  vscode,
+  // sass,
+  // threejs,
+  // npm,
+  // vscode,
   git,
-  github,
-  slack,
+  // github,
+  // slack,
 };

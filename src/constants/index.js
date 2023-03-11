@@ -11,25 +11,25 @@ import {
   typescript,
   react,
   redux,
-  nextjs,
-  expressjs,
+  // nextjs,
+  // expressjs,
   nodejs,
   postgresql,
-  sequelize,
+  // sequelize,
   firebase,
-  nextauthjs,
-  webpack,
+  // nextauthjs,
+  // webpack,
   materialui,
   css3,
   html5,
   tailwindcss,
-  sass,
-  threejs,
-  npm,
-  vscode,
+  // sass,
+  // threejs,
+  // npm,
+  // vscode,
   git,
-  github,
-  slack,
+  // github,
+  // slack,
 } from "../assets";
 
 export const navLinks = [
@@ -142,14 +142,14 @@ export const technologies = [
     name: "Redux",
     icon: redux,
   },
-  {
-    name: "Next.js",
-    icon: nextjs,
-  },
-  {
-    name: "Express.js",
-    icon: expressjs,
-  },
+  // {
+  //   name: "Next.js",
+  //   icon: nextjs,
+  // },
+  // {
+  //   name: "Express.js",
+  //   icon: expressjs,
+  // },
   {
     name: "Node.js",
     icon: nodejs,
@@ -158,22 +158,22 @@ export const technologies = [
     name: "PostgreSQL",
     icon: postgresql,
   },
-  {
-    name: "Sequelize",
-    icon: sequelize,
-  },
+  // {
+  //   name: "Sequelize",
+  //   icon: sequelize,
+  // },
   {
     name: "Firebase",
     icon: firebase,
   },
-  {
-    name: "NextAuth.js",
-    icon: nextauthjs,
-  },
-  {
-    name: "Webpack",
-    icon: webpack,
-  },
+  // {
+  //   name: "NextAuth.js",
+  //   icon: nextauthjs,
+  // },
+  // {
+  //   name: "Webpack",
+  //   icon: webpack,
+  // },
   {
     name: "Material UI",
     icon: materialui,
@@ -190,32 +190,32 @@ export const technologies = [
     name: "Tailwind CSS",
     icon: tailwindcss,
   },
-  {
-    name: "Sass",
-    icon: sass,
-  },
-  {
-    name: "Three.js",
-    icon: threejs,
-  },
-  {
-    name: "npm",
-    icon: npm,
-  },
-  {
-    name: "VS Code",
-    icon: vscode,
-  },
+  // {
+  //   name: "Sass",
+  //   icon: sass,
+  // },
+  // {
+  //   name: "Three.js",
+  //   icon: threejs,
+  // },
+  // {
+  //   name: "npm",
+  //   icon: npm,
+  // },
+  // {
+  //   name: "VS Code",
+  //   icon: vscode,
+  // },
   {
     name: "Git",
     icon: git,
   },
-  {
-    name: "GitHub",
-    icon: github,
-  },
-  {
-    name: "Slack",
-    icon: slack,
-  },
+  // {
+  //   name: "GitHub",
+  //   icon: github,
+  // },
+  // {
+  //   name: "Slack",
+  //   icon: slack,
+  // },
 ];

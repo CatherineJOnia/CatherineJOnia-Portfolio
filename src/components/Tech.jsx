@@ -17,3 +17,13 @@ const Tech = () => {
 };
 
 export default SectionWrapper(Tech, "");
+
+// import React from 'react'
+
+// function Tech() {
+//   return (
+//     <div>Tech</div>
+//   )
+// }
+
+// export default Tech
