@@ -202,3 +202,57 @@
       -2.6em 0em 0 0em rgba(255, 255, 255, 0.7), -1.8em -1.8em 0 0em #ffffff;
   }
 }
+
+footer {
+	background: #1F1F1F;
+	min-height: 100px;
+	width: 100%;
+	overflow: hidden;
+	font-size: 14px;
+	color: white;
+	position: relative;
+	text-align: center;
+}
+
+footer a:visited {
+	color: #fff;
+}
+
+footer a:hover,
+footer a:focus {
+	color: #fff;
+}
+
+.download{
+	margin: 30px;
+}
+.download-button{
+	border: 2px solid white;
+	padding: 15px;
+	box-shadow: -5px 5px 10px rgb(116, 115, 115);
+  /* margin: 70px; */
+}
+.download-button:hover{
+	transition: 0.3s all ease-in-out;
+	background-color: white;
+	color: black;
+	text-decoration:none;
+}
+
+.linkedin {
+	margin: 30px;
+}
+.linkedin-button{
+	border: 2px solid white;
+	padding: 15px;
+	box-shadow: -5px 5px 10px rgb(116, 115, 115);
+  /* margin: 70px; */
+}
+.linkedin-button:hover{
+	transition: 0.3s all ease-in-out;
+	background-color: rgb(8, 74, 239);
+  border: 2px solid rgb(8, 74, 239);
+	color: white;
+	text-decoration:none;
+}
+

@@ -410,9 +410,10 @@ export const backgrounds = [
     iconBg: "#000000",
     date: "February 2019 - February 2023",
     points: [
-      "Managed approximately 10 tables at a time, facilitating communication between 40 guests and kitchen staff.",
+      "Served 10-20 tables nightly in a fast-paced environment and effectively managed time to ensure an optimal experience for each guest.",
       "Generated over $350,000 in annual revenue for the company.",
-      "Trained 100% of new employees on company culture.",
+      "Trained and mentored 100% of new employees on company culture, company policies, and customer service standards",
+      "Navigated high-pressure situations -- such as rush hour, special events, and customer conflicts -- with ease and composure, ensuring smooth service delivery and customer satisfaction.",
     ],
   },
   {

@@ -9,7 +9,8 @@ import Projects from "./components/Projects";
 import Feedbacks from "./components/Feedbacks";
 import Background from "./components/Background";
 import Contact from "./components/Contact";
-import StarsCanvas from "./components/StarsCanvas";
+import StarsCanvas from "./components/canvas/Stars";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -29,6 +30,7 @@ const App = () => {
           <Contact />
           <StarsCanvas />
         </div>
+        <Footer />
       </div>
     </BrowserRouter>
   )
