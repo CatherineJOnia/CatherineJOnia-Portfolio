@@ -32,9 +32,7 @@ const Contact = () => {
     setLoading(true);
 
     emailjs
-      .send(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+      .send( 'service_gcwviae', 'template_kh16bfk',
         {
           from_name: form.name,
           to_name: "Catherine Onia",
@@ -42,7 +40,7 @@ const Contact = () => {
           to_email: "catherinejonia@gmail.com",
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        'txwVQpT4-EB-FRUV3',
       )
       .then(
         () => {
