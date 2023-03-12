@@ -19,8 +19,7 @@ const LogoShield = ({ name, icon, source_code_link }) => {
               scale: 1,
               speed: 450,
             }}
-            className='bg-tertiary rounded-[20px] py-5 px-5 flex justify-evenly items-center flex-col cursor-pointer'
-            onClick={() => window.open(source_code_link, "_blank")}
+            className='bg-tertiary rounded-[20px] py-5 px-5 flex justify-evenly items-center flex-col'
           >
             <img
               src={icon}
