@@ -2,14 +2,16 @@ import React, { Suspense } from "react";
 
 import Tilt from "react-parallax-tilt";
 import { motion } from "framer-motion";
+import { fadeIn } from "../../utils/motion";
 import CanvasLoader from "../Loader";
 
 const LogoShield = ({ icon }) => {
 
   return (
     <Suspense fallback={<CanvasLoader />}>
-      <Tilt className='xs:w-[100px]'>
+      <Tilt>
         <motion.div
+        variant={fadeIn()}
         whileHover={{ scale: 1.2 }}
           className='xs:w-[100px] green-pink-gradient p-[1px] rounded-[20px] shadow-card'
         >
