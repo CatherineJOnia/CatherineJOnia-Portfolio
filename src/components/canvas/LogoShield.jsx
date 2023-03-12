@@ -11,7 +11,7 @@ const LogoShield = ({ icon }) => {
       <Tilt className='xs:w-[100px]'>
         <motion.div
         whileHover={{ scale: 1.2 }}
-          className='w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card'
+          className='xs:w-[100px] green-pink-gradient p-[1px] rounded-[20px] shadow-card'
         >
           <div
             options={{
