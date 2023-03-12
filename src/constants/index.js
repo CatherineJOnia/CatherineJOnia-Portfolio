@@ -98,7 +98,7 @@ export const experiences = [
     ],
   },
   {
-    title: "Primay Game Developer",
+    title: "Primary Game Developer",
     company_name: "Toad's Garden",
     icon: Toad,
     iconBg: "#374828",
@@ -119,7 +119,7 @@ export const experiences = [
     date: "October 2022 -  February 2023",
     points: [
       "Completed the Fullstack Academy of Code's intensive 17-week immersive program for women, gaining an in-depth knowledge of the PERN stack, Git version control, and JavaScript programming language.",
-      "Utilized JavaScript  to create dynamic user interfaces, manipulate the DOM, and implement various front-end frameworks and libraries such as React.js, Redux Toolkit, and jQuery.",
+      "Utilized JavaScript  to create dynamic user interfaces, manipulate the DOM, and implement various front-end frameworks and libraries such as React, Redux Toolkit, and jQuery.",
       "Completed projects that included back-end development using Node.js and Express.js, integrating with PostgreSQl databases to build scalable, efficient, and secure web applications.",
       "Worked on projects that included testing, debugging, and optimizing code to improve application performance and user experience.",
       "Collaborated with other team members, students, mentors, and instructors using Slack as a primary communication tool to facilitate effective communication and improve productivity.",
@@ -259,7 +259,7 @@ export const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "RESTapi",
+        name: "RESTful APIs",
         color: "pink-text-gradient",
       },
       {
@@ -320,7 +320,7 @@ export const projects = [
 export const testimonials = [
   {
     testimonial:
-      "Catherine has a natural affinity for all things tech, and has been able to pick up new and challenging concepts much more quickly than average. Most importantly, she is a great friend and teammate to those she works with, and is tenacious, thoughtful, and modest when overcoming obstacles. ",
+      "Catherine has a natural affinity for all things tech, and has been able to pick up new and challenging concepts much more quickly than average. Most importantly, she is a great friend and teammate to those she works with, and is tenacious, thoughtful, and modest when overcoming obstacles.",
     name: "Kara Cavanaugh",
     designation: "Instructor",
     company: "FSA Grace Hopper Program",
@@ -389,16 +389,16 @@ export const backgrounds = [
     ],
   },
   {
-    title: "Dental Assistant I",
-    company_name: "Lincoln Devon Dental",
+    title: "Dental Assistant",
+    company_name: "Lincoln-Devon Dental",
     icon: tooth,
     iconBg: "#ffffff",
     date: "July 2017 - January 2019",
     points: [
       "Boosted efficiency of patient procedures by 30%, increasing daily appointment availability from 6 to 10 as the first and only dental assistant in the office.",
       "Modernized the record-keeping system by inputting 100% of the office's paper patient records and notes on a new digitized platform.",
-      "Spearheaded appointment reminder program, sending automated appointment reminders ahead of visit that reduced instance of no-shows by 85%.",
-      "Organized efficient stockroom system, cutting annual costs by $20,000 in a small, single-dentist office.",
+      "Spearheaded appointment reminder program, sending automated appointment reminders ahead of visits that reduced instance of no-shows by 85%.",
+      "Organized efficient stockroom system, cutting annual costs by $20,000 in a small single-dentist office.",
     ],
   },
   {
@@ -408,10 +408,10 @@ export const backgrounds = [
     iconBg: "#005826",
     date: "August 2013 - May 2017",
     points: [
-      "Awarded 4-year full-ride scholarship merit scholarship based on a competitive application and interview process of over 20,000 applicants.",
-      "Graduated with honors in Biological Sciences after defending academic thesis.",
+      "Awarded 4-year full-ride merit scholarship based on a competitive application and interview process of over 20,000 applicants.",
+      "Graduated with Honors in Biological Sciences after defending academic thesis.",
       "Graduated Cum Laude based on academic performance.",
-      "Participated in Club Tennis after graduating high school with four years of varsity experience.",
+      "Participated in Club Tennis after graduating high school with four years of Varsity experience.",
       "Co-founded Filipino-American Student Union, promoting the organization from 3 founding members to over 120 active members.",
     ],
   },
