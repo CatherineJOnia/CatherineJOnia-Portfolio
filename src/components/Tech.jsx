@@ -6,7 +6,7 @@ import { technologies } from "../constants";
 
 const Tech = () => {
   return (
-    <div className='flex flex-row flex-wrap justify-center gap-20'>
+    <div className='w-full flex flex-row flex-wrap justify-evenly'>
       {technologies.map((technology) => (
         <div className='w-10 h-10' key={technology.name} >
           <LogoShield icon={technology.icon} />
