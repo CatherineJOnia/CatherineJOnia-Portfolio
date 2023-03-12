@@ -5,32 +5,22 @@ import {
   game,
   openai,
   logo,
-  OniaLogo,
+  Onia,
   Toad,
   fullstack,
   javascript,
   typescript,
   react,
   redux,
-  // nextjs,
-  // expressjs,
   nodejs,
   postgresql,
-  // sequelize,
   firebase,
-  // nextauthjs,
-  // webpack,
   materialui,
   css3,
   html5,
   tailwindcss,
-  // sass,
-  // threejs,
-  // npm,
-  // vscode,
   git,
-  // github,
-  // slack,
+  github,
   ChatOnia,
   DinGo,
   ToadsGarden,
@@ -96,7 +86,7 @@ export const experiences = [
   {
     title: "Solo eCommerce Developer",
     company_name: "DinGo -- for Dinner on the Go",
-    icon: OniaLogo,
+    icon: logo,
     iconBg: "#ffffff",
     date: "March 2023",
     points: [
@@ -142,95 +132,63 @@ export const technologies = [
   {
     name: "JavaScript",
     icon: javascript,
+    source_code_link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
   },
   {
     name: "TypeScript",
     icon: typescript,
+    source_code_link: "https://www.typescriptlang.org/",
   },
   {
     name: "React",
     icon: react,
+    source_code_link: "https://reactjs.org/",
   },
   {
     name: "Redux",
     icon: redux,
+    source_code_link: "https://redux.js.org",
   },
-  // {
-  //   name: "Next.js",
-  //   icon: nextjs,
-  // },
-  // {
-  //   name: "Express.js",
-  //   icon: expressjs,
-  // },
   {
     name: "Node.js",
     icon: nodejs,
+    source_code_link: "https://nodejs.org",
   },
   {
     name: "PostgreSQL",
     icon: postgresql,
+    source_code_link: "https://www.postgresql.org",
   },
-  // {
-  //   name: "Sequelize",
-  //   icon: sequelize,
-  // },
   {
     name: "Firebase",
     icon: firebase,
+    source_code_link: "https://firebase.google.com/",
   },
-  // {
-  //   name: "NextAuth.js",
-  //   icon: nextauthjs,
-  // },
-  // {
-  //   name: "Webpack",
-  //   icon: webpack,
-  // },
   {
     name: "Material UI",
     icon: materialui,
+    source_code_link: "https://mui.com/",
   },
   {
     name: "CSS 3",
     icon: css3,
+    source_code_link: "https://www.w3schools.com/css/",
   },
   {
     name: "HTML 5",
     icon: html5,
+    source_code_link: "https://www.w3.org/html/",
   },
   {
     name: "Tailwind CSS",
     icon: tailwindcss,
+    source_code_link: "https://tailwindcss.com/",
   },
-  // {
-  //   name: "Sass",
-  //   icon: sass,
-  // },
-  // {
-  //   name: "Three.js",
-  //   icon: threejs,
-  // },
-  // {
-  //   name: "npm",
-  //   icon: npm,
-  // },
-  // {
-  //   name: "VS Code",
-  //   icon: vscode,
-  // },
   {
     name: "Git",
     icon: git,
+    source_code_link: "https://git-scm.com/",
   },
-  // {
-  //   name: "GitHub",
-  //   icon: github,
-  // },
-  // {
-  //   name: "Slack",
-  //   icon: slack,
-  // },
 ];
 
 export const projects = [
