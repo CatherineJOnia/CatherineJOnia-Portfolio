@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import { styles } from "../styles";
 import { navLinks } from "../constants";
-import MoonLogo from "../assets/MoonLogo.png";
+import logo from "../assets/logo.png";
 import menu from "../assets/menu.svg";
 import close from "../assets/close.svg"
 
@@ -44,7 +44,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={MoonLogo} alt='moonLogo' className='w-11 h-11 object-contain' />
+          <img src={logo} alt='moonLogo' className='w-11 h-11 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Catherine Onia &nbsp;
             <span className='sm:block hidden'> |&nbsp; Full Stack Software Engineer</span>

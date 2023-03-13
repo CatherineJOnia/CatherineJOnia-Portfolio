@@ -11,14 +11,14 @@ const Moon = () => {
     <mesh>
     <hemisphereLight intensity={0.60} groundColor='black' />
     <spotLight
-      position={[-70, 50, 10]}
+      position={[60, -60, 60]}
       angle={0.50}
       penumbra={1}
       intensity={1}
       castShadow
       shadow-mapSize={1024}
     />
-    <pointLight intensity={0.5} />
+    <pointLight intensity={0.60} />
     <primitive object={moon.scene} scale={2.5} position-y={0} rotation-y={0} />
     </mesh>
   );
