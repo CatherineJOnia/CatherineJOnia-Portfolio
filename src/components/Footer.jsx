@@ -11,7 +11,7 @@ const Footer = () => {
               className="download-button"
               rel="noopener noreferrer"
               target="_blank"
-              href="../../public/Catherine_Onia_Resume_2023.pdf"
+              href="/Catherine_Onia_Resume_2023.pdf"
               download
             >
               Download Resume

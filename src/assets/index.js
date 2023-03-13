@@ -5,6 +5,7 @@ import game from "./game.png";
 
 import openai from "./experience/openai.png";
 import logo from "./logo.png";
+import MoonLogo from "./MoonLogo.png";
 import Onia from "./Onia.png";
 import Toad from "./experience/Toad.png";
 import fullstack from "./experience/fullstack.png";
@@ -45,6 +46,7 @@ export {
   game,
   openai,
   logo,
+  MoonLogo,
   Onia,
   Toad,
   fullstack,
