@@ -71,8 +71,9 @@ export const services = [
 
 export const experiences = [
   {
-    title: "Solo Developer",
-    company_name: "ChatOnia",
+    title: "ChatOnia",
+    company_name:
+      "A software application that emulates the functionality of the ChatGPT model, using natural language processing and machine learning techniques to generate human-like responses to user input.",
     icon: openai,
     iconBg: "#11a37f",
     date: "March 2023",
@@ -84,8 +85,9 @@ export const experiences = [
     ],
   },
   {
-    title: "Solo eCommerce Developer",
-    company_name: "DinGo -- for Dinner on the Go",
+    title: "DinGO -- for Dinner on the Go",
+    company_name:
+      "A custom single-page application eCommerce website with both user and administrative features.",
     icon: logo,
     iconBg: "#ffffff",
     date: "March 2023",
@@ -98,8 +100,9 @@ export const experiences = [
     ],
   },
   {
-    title: "Primary Game Developer",
-    company_name: "Toad's Garden",
+    title: "Toad's Garden",
+    company_name:
+      "A wholesome 2D side-scrolling platformer game starring familiar characters.  Players play as Toad and collect objectives while avoiding wildlife.",
     icon: Toad,
     iconBg: "#374828",
     date: "February 2023",

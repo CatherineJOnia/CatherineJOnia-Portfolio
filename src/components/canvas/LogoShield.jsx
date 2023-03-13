@@ -13,7 +13,7 @@ const LogoShield = ({ icon }) => {
         <motion.div
         variant={fadeIn()}
         whileHover={{ scale: 1.2 }}
-        className='green-pink-gradient p-[1px] rounded-[20px] shadow-card'
+        className='w-full xs:w-[100px] green-pink-gradient p-[1px] rounded-[20px] shadow-card'
         >
           <div
             options={{
