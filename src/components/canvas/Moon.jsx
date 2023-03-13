@@ -9,7 +9,7 @@ const Moon = () => {
 
   return (
     <mesh>
-    <hemisphereLight intensity={0.60} groundColor='black' />
+    <hemisphereLight intensity={0.80} groundColor='black' />
     <spotLight
       position={[60, -60, 60]}
       angle={0.50}
