@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
-import { MoonCanvas } from "./canvas";
+// import { MoonCanvas } from "./canvas";git
 
 import React from "react";
 
@@ -27,7 +27,7 @@ const Hero = () => {
         </div> */}
       </div>
 
-      <MoonCanvas />
+      {/* <MoonCanvas /> */}
 
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
         <a href='#about'>
