@@ -11,7 +11,8 @@ const Footer = () => {
               className="download-button"
               rel="noopener noreferrer"
               target="_blank"
-              href="https://docs.google.com/document/d/1AHApDuNpvgUAXQrxjDC1eJMMlGUWzUEV/edit?usp=sharing&ouid=115668343253212061474&rtpof=true&sd=true"
+              href="../../public/Catherine_Onia_Resume_2023.pdf"
+              download
             >
               Download Resume
             </a>
