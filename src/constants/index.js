@@ -135,62 +135,62 @@ export const technologies = [
   {
     name: "JavaScript",
     icon: javascript,
-    source_code_link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    source_link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/",
   },
   {
     name: "TypeScript",
     icon: typescript,
-    source_code_link: "https://www.typescriptlang.org/",
+    source_link: "https://www.typescriptlang.org/",
   },
   {
     name: "React",
     icon: react,
-    source_code_link: "https://reactjs.org/",
+    source_link: "https://reactjs.org/",
   },
   {
     name: "Redux",
     icon: redux,
-    source_code_link: "https://redux.js.org",
+    source_link: "https://redux.js.org/",
   },
   {
     name: "Node.js",
     icon: nodejs,
-    source_code_link: "https://nodejs.org",
+    source_link: "https://nodejs.org/",
   },
   {
     name: "PostgreSQL",
     icon: postgresql,
-    source_code_link: "https://www.postgresql.org",
+    source_link: "https://www.postgresql.org/",
   },
   {
     name: "Firebase",
     icon: firebase,
-    source_code_link: "https://firebase.google.com/",
+    source_link: "https://firebase.google.com/",
   },
   {
     name: "Material UI",
     icon: materialui,
-    source_code_link: "https://mui.com/",
+    source_link: "https://mui.com/",
   },
   {
     name: "CSS 3",
     icon: css3,
-    source_code_link: "https://www.w3schools.com/css/",
+    source_link: "https://www.w3schools.com/css/",
   },
   {
     name: "HTML 5",
     icon: html5,
-    source_code_link: "https://www.w3.org/html/",
+    source_link: "https://www.w3.org/html/",
   },
   {
     name: "Tailwind CSS",
     icon: tailwindcss,
-    source_code_link: "https://tailwindcss.com/",
+    source_link: "https://tailwindcss.com/",
   },
   {
     name: "Git",
     icon: git,
-    source_code_link: "https://git-scm.com/",
+    source_link: "https://git-scm.com/",
   },
 ];
 

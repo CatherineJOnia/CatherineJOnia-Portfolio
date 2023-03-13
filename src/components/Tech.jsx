@@ -6,9 +6,9 @@ import { technologies } from "../constants";
 
 const Tech = () => {
   return (
-    <div className='xl:mt-12 flex xs:flex-wrap flex-wrap justify-center gap-20'>
+    <div className='flex flex-row flex-wrap justify-center gap-10'>
       {technologies.map((technology) => (
-        <div className='w-10 h-10' key={technology.name} >
+        <div className='w-15 h-15' key={technology.name} >
           <LogoShield icon={technology.icon} />
         </div>
       ))}
