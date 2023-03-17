@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { SocialIcon } from "react-social-icons";
 
 import { SectionWrapper } from "../hoc";
 
@@ -16,14 +17,21 @@ const Footer = () => {
             >
               Download Resume
             </a>
-            <a
-              className="linkedin-button"
-              rel="noopener noreferrer"
-              target="_blank"
-              href="https://linkedin.com/in/catherineonia"
-            >
-              Connect on LinkedIn
-            </a>
+            <SocialIcon
+              url="https://linkedin.com/in/catherineonia"
+              fgColor="white"
+              bgColor="transparent"
+            />
+            <SocialIcon
+              url="https://github.com/catherinejonia"
+              fgColor="white"
+              bgColor="transparent"
+            />
+            <SocialIcon
+              url="https://medium.com/catherinejonia"
+              fgColor="white"
+              bgColor="transparent"
+            />
           </div>
         </div>
       </footer>
