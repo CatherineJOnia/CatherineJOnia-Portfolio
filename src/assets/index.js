@@ -3,8 +3,6 @@ import frontend from "./frontend.png";
 import backend from "./backend.png";
 import game from "./game.png";
 
-import fullstack from "./experience/fullstack.png";
-
 import javascript from "./tech/javascript.png";
 import typescript from "./tech/typescript.png";
 import react from "./tech/react.png";
@@ -18,6 +16,8 @@ import html5 from "./tech/html5.png";
 import tailwindcss from "./tech/tailwindcss.png";
 import git from "./tech/git.png";
 import github from "./tech/github.png";
+import Onia from "./Onia.png";
+import logo from "./logo.png";
 
 import ChatOnia from "./ChatOnia.png";
 import DinGo from "./DinGo.png";
@@ -29,6 +29,7 @@ import Marcela from "./testimonials/Marcela.jpeg";
 import Lindsay from "./testimonials/Lindsay.jpeg";
 import Madeleine from "./testimonials/Madeleine.jpeg";
 
+import fullstack from "./experience/fullstack.png";
 import Yama from "./experience/Yama.png";
 import tooth from "./experience/tooth.png";
 import cpcc from "./experience/cpcc.png";
@@ -53,6 +54,8 @@ export {
   tailwindcss,
   git,
   github,
+  Onia,
+  logo,
   ChatOnia,
   DinGo,
   ToadsGarden,

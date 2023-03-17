@@ -147,6 +147,10 @@ export const projects = [
         color: "blue-text-gradient",
       },
       {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
         name: "Next.js 13",
         color: "blue-text-gradient",
       },
@@ -163,7 +167,15 @@ export const projects = [
         color: "blue-text-gradient",
       },
       {
+        name: "Firebase Firestore",
+        color: "blue-text-gradient",
+      },
+      {
         name: "Tailwind CSS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "React SWR",
         color: "blue-text-gradient",
       },
     ],
