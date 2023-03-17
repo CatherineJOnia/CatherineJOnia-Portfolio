@@ -20,7 +20,7 @@ import {
   ChatOnia,
   DinGo,
   ToadsGarden,
-  HeroBG,
+  Hero,
   Kara,
   Sarah,
   Marcela,
@@ -323,7 +323,7 @@ export const projects = [
         color: "violet-text-gradient",
       },
     ],
-    image: HeroBG,
+    image: Hero,
     source_code_link:
       "https://github.com/CatherineJOnia/CatherineJOnia-Portfolio",
   },

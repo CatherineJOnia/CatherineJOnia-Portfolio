@@ -22,7 +22,7 @@ import logo from "./logo.png";
 import ChatOnia from "./ChatOnia.png";
 import DinGo from "./DinGo.png";
 import ToadsGarden from "./ToadsGarden.png";
-import HeroBG from "./HeroBG.png"
+import Hero from "./Hero.png";
 
 import Kara from "./testimonials/Kara.jpeg";
 import Sarah from "./testimonials/Sarah.jpeg";
@@ -60,7 +60,7 @@ export {
   ChatOnia,
   DinGo,
   ToadsGarden,
-  HeroBG,
+  Hero,
   Kara,
   Sarah,
   Marcela,
