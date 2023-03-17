@@ -3,10 +3,8 @@ import { BrowserRouter } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
-// import Experience from "./components/Experience";
 import Tech from "./components/Tech";
 import Projects from "./components/Projects";
-// import Feedbacks from "./components/Feedbacks";
 import Testimonials from "./components/Testimonials";
 import Background from "./components/Background";
 import Contact from "./components/Contact";
@@ -22,10 +20,8 @@ const App = () => {
           <Hero />
         </div>
         <About />
-        {/* <Experience /> */}
         <Projects />
         <Tech />
-        {/* <Feedbacks /> */}
         <Testimonials />
         <Background />
         <div className='relative z-0'>

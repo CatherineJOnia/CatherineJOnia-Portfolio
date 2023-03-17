@@ -53,11 +53,11 @@ const TestimonialCard = ({
 
 const Testimonials = () => {
   return (
-    <div className={`mt-12 bg-black-100 rounded-[20px] justify-center items-center`}>
+    <div className={`bg-black-100 rounded-[20px]`}>
       <div
-        className={`bg-tertiary rounded-2xl ${styles.padding} min-h-[300px] justify-center items-center`}
+        className={`bg-tertiary rounded-2xl ${styles.padding} min-h-[30x]`}
       >
-        <motion.div variants={textVariant()} className={`justify-center items-center`}>
+        <motion.div variants={textVariant()}>
           <p className={styles.sectionSubText}>What others say</p>
           <h2 className={styles.sectionHeadText}>Testimonials.</h2>
         </motion.div>
@@ -77,7 +77,7 @@ const Testimonials = () => {
       pagination={{ dynamicBullets: true, clickable: true }}
       loop={true}
       modules={[Pagination, Navigation, EffectCoverflow]}
-      className={`bg-tertiary -mt-20 pb-10 justify-center items-center ${styles.paddingX}`}
+      className={`bg-tertiary pb-10 ${styles.paddingX}`}
       >
         {testimonials.map((testimonial, index) => (
           <SwiperSlide key={index} className="testimonial">

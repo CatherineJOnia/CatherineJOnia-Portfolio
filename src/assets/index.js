@@ -3,10 +3,6 @@ import frontend from "./frontend.png";
 import backend from "./backend.png";
 import game from "./game.png";
 
-import openai from "./experience/openai.png";
-import logo from "./logo.png";
-import Onia from "./Onia.png";
-import Toad from "./experience/Toad.png";
 import fullstack from "./experience/fullstack.png";
 
 import javascript from "./tech/javascript.png";
@@ -43,10 +39,6 @@ export {
   frontend,
   backend,
   game,
-  openai,
-  logo,
-  Onia,
-  Toad,
   fullstack,
   javascript,
   typescript,
