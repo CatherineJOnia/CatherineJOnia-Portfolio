@@ -3,7 +3,7 @@ import {
   VerticalTimeline,
   VerticalTimelineElement,
 } from "react-vertical-timeline-component";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 
 import "react-vertical-timeline-component/style.min.css";
 
@@ -60,14 +60,14 @@ const BackgroundCard = ({ background }) => {
 const Background = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
+      {/* <motion.div variants={textVariant()}> */}
         <p className={`${styles.sectionSubText} text-center`}>
           Where I come from
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
           Previous Experience.
         </h2>
-      </motion.div>
+      {/* </motion.div> */}
 
       <div className='mt-20 flex flex-col'>
         <VerticalTimeline>
