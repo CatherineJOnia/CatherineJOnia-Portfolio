@@ -20,6 +20,7 @@ import {
   ChatOnia,
   DinGo,
   ToadsGarden,
+  HeroBG,
   Kara,
   Sarah,
   Marcela,
@@ -287,6 +288,44 @@ export const projects = [
     ],
     image: ToadsGarden,
     source_code_link: "https://github.com/toads-garden/toads-garden-web",
+  },
+  {
+    name: "Portfolio",
+    description:
+      "An updated collection of my experience, projects, and aspirations.",
+    date: "March 2023",
+    points: [
+      "Developed a responsive portfolio website that can adapt to various screen sizes and devices.",
+      "Implemented Three.js to manipulate 3D objects on the portfolio site, enhancing the user experience and engagement.",
+      "Leveraged Framer Motion to create smooth and visually appealing animations for the portfolio site, enhancing the overall design and user interaction.",
+      "Utilized Vite.js to increase the site's loading speed, providing users with a seamless experience while browsing the portfollio.",
+      "Customized the styling of the site with Tailwind CSS, creating a unique and visually stunning design that reflects my brand and personality.",
+    ],
+    tags: [
+      {
+        name: "JavaScript",
+        color: "violet-text-gradient",
+      },
+      {
+        name: "Framer Motion",
+        color: "violet-text-gradient",
+      },
+      {
+        name: "Three.jS",
+        color: "violet-text-gradient",
+      },
+      {
+        name: "Vite.js",
+        color: "violet-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "violet-text-gradient",
+      },
+    ],
+    image: HeroBG,
+    source_code_link:
+      "https://github.com/CatherineJOnia/CatherineJOnia-Portfolio",
   },
 ];
 
