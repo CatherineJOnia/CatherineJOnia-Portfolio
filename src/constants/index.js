@@ -8,13 +8,18 @@ import {
   typescript,
   react,
   redux,
+  nextjs,
+  expressjs,
   nodejs,
   postgresql,
+  sequelize,
   firebase,
+  nextauthjs,
   materialui,
   css3,
   html5,
   tailwindcss,
+  webpack,
   git,
   github,
   ChatOnia,
@@ -38,8 +43,8 @@ export const navLinks = [
     title: "About",
   },
   {
-    id: "work",
-    title: "Work",
+    id: "projects",
+    title: "Projects",
   },
   {
     id: "contact",
@@ -88,6 +93,16 @@ export const technologies = [
     source_link: "https://redux.js.org/",
   },
   {
+    name: "Next.js",
+    icon: nextjs,
+    source_link: "https://nextjs.org/",
+  },
+  {
+    name: "Express.js",
+    icon: expressjs,
+    source_link: "https://expressjs.com/",
+  },
+  {
     name: "Node.js",
     icon: nodejs,
     source_link: "https://nodejs.org/",
@@ -96,6 +111,11 @@ export const technologies = [
     name: "PostgreSQL",
     icon: postgresql,
     source_link: "https://www.postgresql.org/",
+  },
+  {
+    name: "Sequelize",
+    icon: sequelize,
+    source_link: "https://sequelize.org/",
   },
   {
     name: "Firebase",
@@ -121,6 +141,11 @@ export const technologies = [
     name: "Tailwind CSS",
     icon: tailwindcss,
     source_link: "https://tailwindcss.com/",
+  },
+  {
+    name: "Webpack",
+    icon: webpack,
+    source_link: " https://webpack.js.org/",
   },
   {
     name: "Git",
@@ -298,8 +323,9 @@ export const projects = [
       "Developed a responsive portfolio website that can adapt to various screen sizes and devices.",
       "Implemented Three.js to manipulate 3D objects on the portfolio site, enhancing the user experience and engagement.",
       "Leveraged Framer Motion to create smooth and visually appealing animations for the portfolio site, enhancing the overall design and user interaction.",
-      "Utilized Vite.js to increase the site's loading speed, providing users with a seamless experience while browsing the portfollio.",
       "Customized the styling of the site with Tailwind CSS, creating a unique and visually stunning design that reflects my brand and personality.",
+      "Utilized Vite.js to optimize the build process and increase the site's loading speed.",
+      "Enhanced code maintainability and readability by using higher order components (HOCs) to separate presentation logic from business logic.",
     ],
     tags: [
       {
@@ -320,6 +346,10 @@ export const projects = [
       },
       {
         name: "Tailwind CSS",
+        color: "violet-text-gradient",
+      },
+      {
+        name: "Higher Order Components (HOCs)",
         color: "violet-text-gradient",
       },
     ],
