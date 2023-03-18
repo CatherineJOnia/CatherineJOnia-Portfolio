@@ -74,6 +74,7 @@ const Testimonials = () => {
          modifier: 1,
          slideShadows: true,
        }}
+      navigation
       pagination={{ dynamicBullets: true, clickable: true }}
       loop={true}
       modules={[Pagination, Navigation, EffectCoverflow]}
