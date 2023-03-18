@@ -82,10 +82,10 @@ const ProjectCard = ({
 const Projects = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
+      {/* <motion.div variants={textVariant()}> */}
         <p className={`${styles.sectionSubText} `}>My work</p>
         <h2 className={`${styles.sectionHeadText}`}>Projects and Tech Stack.</h2>
-      </motion.div>
+      {/* </motion.div> */}
 
       <div className='w-full flex'>
         <motion.p
