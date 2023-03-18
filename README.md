@@ -20,6 +20,9 @@ An updated collection of my experience, projects, and aspirations.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
 </a>
+<a href="https://reactjs.org/"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+</a>
 <a href="https://vitejs.dev/">
 <img src="https://github.com/CatherineJOnia/CatherineJOnia-Portfolio/blob/main/src/assets/tech/vitejs.png" alt="vitejs" width="40" height="40"/>
 </a>
