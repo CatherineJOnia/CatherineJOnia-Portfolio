@@ -18,7 +18,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        My name is Catherine and I'm a Full Stack Software Engineer. &nbsp; I'm both practiced and familiar with developing web-based applications using the PERN stack (PostgreSQL, Express.js, React, and Node.js) with JavaScript as my main language. &nbsp; I'm a life-long self-motivated learner and I'm always working on a new project that both challenges and reinforces my understanding of my tech stack.
+        My name is Catherine and I'm a Full Stack Software Engineer. &nbsp; I'm both familiar and practiced with developing web-based applications using the PERN stack (PostgreSQL, Express.js, React, and Node.js) with JavaScript as my main language. &nbsp; I'm a life-long self-motivated learner and I'm always working on a new project that both challenges and reinforces my understanding of my tech stack.
         <br />
         <br />
         My quest as a developer is to code a travel application that will make travel planning both collaborative and organized. &nbsp; When I'm not coding, you can find me working on a problem at the climbing gym, attempting to bake the perfect olive oil cake, or planning for my next international trip!
