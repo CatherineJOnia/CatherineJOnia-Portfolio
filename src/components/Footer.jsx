@@ -33,6 +33,11 @@ const Footer = () => {
               Download Resume
             </a>
           </div>
+          <div className="justify-center flex flex-wrap gap-10 mb-7">
+            <p className="font-normal text-center text-[15px] leading-[27px]">
+              Copyright Ⓒ 2023 Catherine Onia. All Rights Reserved.
+            </p>
+          </div>
         </div>
       </footer>
     );
