@@ -207,6 +207,7 @@ export const projects = [
     ],
     image: ChatOnia,
     source_code_link: "https://github.com/CatherineJOnia/ChatOnia",
+    hosted_link: "https://chatgpt-onia.vercel.app",
   },
   {
     name: "DinGo",
@@ -276,6 +277,7 @@ export const projects = [
     ],
     image: DinGo,
     source_code_link: "https://github.com/CatherineJOnia/DinGo",
+    hosted_link: "https://dingo-onia.onrender.com",
   },
   {
     name: "Toad's Garden",
@@ -313,6 +315,7 @@ export const projects = [
     ],
     image: ToadsGarden,
     source_code_link: "https://github.com/toads-garden/toads-garden-web",
+    hosted_link: "https://toads-garden.onrender.com",
   },
   {
     name: "Portfolio",
@@ -356,6 +359,7 @@ export const projects = [
     image: Hero,
     source_code_link:
       "https://github.com/CatherineJOnia/CatherineJOnia-Portfolio",
+    hosted_link: "https://catherinejonia.com",
   },
 ];
 
