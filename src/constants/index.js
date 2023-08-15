@@ -407,7 +407,7 @@ export const testimonials = [
   },
   {
     testimonial:
-      "Throughout our time together, our team successfully built a travel-app aimed at streamlining users' planning process. Catherine's dedication to the project was evident through her proactive approach and strong leadership skills.Catherine's exceptional project management abilities played a crucial role in motivating our team towards achieving success. She consistently demonstrated her commitment to keeping us organized and on-track. Working alongside Catherine, I felt confident that we would deliver an outstanding application within our tight timeframe. Her expertise as a developer coupled with her passion for teamwork makes her an invaluable asset to any development team.Catherine is not only an outstanding teammate, but also a highly-skilled developer. I strongly recommend her for any challenging projects or roles she pursues in the future.",
+      "Throughout our time together, our team successfully built a travel-app aimed at streamlining users' planning process. Catherine's dedication to the project was evident through her proactive approach and strong leadership skills.Catherine's exceptional project management abilities played a crucial role in motivating our team towards achieving success. Her expertise as a developer coupled with her passion for teamwork makes her an invaluable asset to any development team. I strongly recommend her for any challenging projects or roles she pursues in the future.",
     name: "Trevor Mathiak",
     designation: "Hackathon Teammate",
     company: "Chingu",
