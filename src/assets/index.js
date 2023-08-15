@@ -34,6 +34,7 @@ import Sarah from "./testimonials/Sarah.jpeg";
 import Marcela from "./testimonials/Marcela.jpeg";
 import Lindsay from "./testimonials/Lindsay.jpeg";
 import Madeleine from "./testimonials/Madeleine.jpeg";
+import Trevor from "./testimonials/Trevor.jpg";
 
 import fullstack from "./experience/fullstack.png";
 import Yama from "./experience/Yama.png";
@@ -76,6 +77,7 @@ export {
   Marcela,
   Lindsay,
   Madeleine,
+  Trevor,
   Yama,
   tooth,
   cpcc,
