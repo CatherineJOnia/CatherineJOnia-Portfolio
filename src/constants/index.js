@@ -25,6 +25,7 @@ import {
   ChatOnia,
   DinGo,
   ToadsGarden,
+  RoundTrip,
   Hero,
   Kara,
   Sarah,
@@ -159,6 +160,61 @@ export const technologies = [
 
 export const projects = [
   {
+    name: "RoundTrip",
+    description:
+      "A trip planning application that allows users to create and organize a trip itinerary based on points of interest.",
+    date: "December 2023",
+    points: [
+      "Formally recognized as team lead of five developers competing in a six-week hackathon.",
+      "Developed and maintained a comprehensive project plan, including task assignments, resource allocation, and deadlines to ensure smooth project execution.",
+      "Managed and approved all pull requests and minimized merge conflicts, streamlining the code integration process and maintaining code quality and consistency across the project.",
+      "Directed the design and implementation of front-end features to create a responsive and intuitive user interface.",
+      "Collaborated with back-end developers to ensure seamless integration of APIs and data flow, aligning front-end functionalities with the overall system architecture.",
+      "Presented the final project demo to hackathon judges and participants, showcasing key features, technical challenges overcome, and the overall value proposition of the application.",
+    ],
+    tags: [
+      {
+        name: "TypeScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "React",
+        color: "green-text-gradient",
+      },
+      {
+        name: "PostGreSQL",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Sequelize",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Express",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Node",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Material UI",
+        color: "green-text-gradient",
+      },
+      {
+        name: "HTML",
+        color: "green-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+    ],
+    image: RoundTrip,
+    source_code_link: "https://github.com/ChinguRoundTrip/RoundTrip",
+    hosted_link: "https://chatgpt-onia.vercel.app",
+  },
+  {
     name: "ChatOnia",
     description:
       "A web application that allows users to choose between the OpenAI language models, test their capabilities, and select the model that best suits a given task.",
@@ -216,7 +272,7 @@ export const projects = [
     name: "DinGo",
     description:
       "A custom single-page application eCommerce website with both user and administrative features.",
-    date: "March 2023",
+    date: "June 2023",
     points: [
       "Designed and developed a full-stack web application using four database models: user, product, cart, and order.",
       "Streamlined the user experience with an intuitive checkout process using React Redux Toolkit to predictably manage state.",
@@ -324,7 +380,7 @@ export const projects = [
     name: "Portfolio",
     description:
       "An updated collection of my experience, projects, and aspirations.",
-    date: "March 2023",
+    date: "August 2024",
     points: [
       "Developed a responsive portfolio website that can adapt to various screen sizes and devices.",
       "Implemented Three.js to manipulate 3D objects on the portfolio site, enhancing the user experience and engagement.",
