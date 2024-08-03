@@ -26,6 +26,7 @@ import {
   DinGo,
   ToadsGarden,
   RoundTrip,
+  Contigo,
   Hero,
   Kara,
   Sarah,
@@ -202,11 +203,7 @@ export const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "HTML",
-        color: "green-text-gradient",
-      },
-      {
-        name: "CSS",
+        name: "Vite.js",
         color: "green-text-gradient",
       },
     ],
@@ -375,6 +372,40 @@ export const projects = [
     image: ToadsGarden,
     source_code_link: "https://github.com/toads-garden/toads-garden-web",
     hosted_link: "https://toads-garden.onrender.com",
+  },
+  {
+    name: "Contigo",
+    description:
+      "A mobile friendship-making application that centers around facilitating authentic in-person interactions",
+    date: "June 2024",
+    points: [
+      "Led a cross-functional team of three apprentice product managers in conceptualizing, designing, and developing a mobile application using Flutterflow.",
+      "Collaborated closely with stakeholders to gather and prioritize user requirements, ensuring alignment with business objectives and user needs.",
+      "Designed intuitive UI/UX flows and wireframes using Figma, resulting in a streamlined user experience and cohesive visual design.",
+      "Iteratively tested and refined application features through usability testing and user feedback, implementing necessary adjustments to enhance overall user experience.",
+      "Presented final application prototype to senior product managers, highlighting key features and user journey, demonstrating the ability to manage end-to-end product developemnt process.",
+    ],
+    tags: [
+      {
+        name: "FlutterFlow",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Coda",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Trello",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Figma",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: Contigo,
+    source_code_link: "https://app.flutterflow.io/project/contigo-g67bdu?tab=uiBuilder&page=LandingPage",
+    hosted_link: "https://app.flutterflow.io/project/contigo-g67bdu?tab=uiBuilder&page=LandingPage",
   },
   {
     name: "Portfolio",

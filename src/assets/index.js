@@ -29,6 +29,7 @@ import DinGo from "./DinGo.png";
 import ToadsGarden from "./ToadsGarden.png";
 import Hero from "./Hero.png";
 import RoundTrip from "./RoundTrip.png";
+import Contigo from "./Contigo.png";
 
 import Kara from "./testimonials/Kara.jpeg";
 import Sarah from "./testimonials/Sarah.jpeg";
@@ -77,7 +78,8 @@ export {
   ToadsGarden,
   RoundTrip,
   Hero,
-  
+  Contigo,
+
   Kara,
   Sarah,
   Marcela,
