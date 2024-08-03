@@ -36,6 +36,8 @@ import {
   cpcc,
   tooth,
   uncc,
+  Onia,
+  inthelablogo,
 } from "../assets";
 
 export const navLinks = [
@@ -416,6 +418,34 @@ export const testimonials = [
 ];
 
 export const backgrounds = [
+  {
+    title: "Apprentice Product Manager",
+    company_name: "In The Lab",
+    icon: inthelablogo,
+    iconBg: "#ffffff",
+    date: "February 2024 -  Present",
+    points: [
+      "Assisted senior product managers in defining product vision and strategy, contributing to the development of a clear product roadmap.",
+      "Conducted market research and competitive analysis to identify customer needs and industry trends, informing product decisions and feature prioritization.",
+      "Participated in the creation and maintenance of product documentation, including requirements specifications, user stories, and acceptance criteria.",
+      "Utilized project management tools and software, such as Coda, Slack, and Trello to track progress, manage tasks, and report on project status.",
+      "Shadowed senior product managers to gain insights into strategic decision-making, product lifecycle management, and stakeholder communication.",
+      "Leveraged no-code application FlutterFlow to create a minimum viable product to present to senior product managers.",
+    ],
+  },
+  {
+    title: "Full Stack Software Engineer",
+    company_name: "Freelance",
+    icon: Onia,
+    iconBg: "#ffffff",
+    date: "February 2023 -  Present",
+    points: [
+      "Led a cross-functional team of five developers competing in a hackathon in designing and implementing a secure web application for travel planning based on points of interest.",
+      "Collaborated with a team of three developers to design, develop, and fully deploy an online video game, ensuring seamless gameplay and a user-friendly interface.",
+      "Utilized a variety of programming languages and frameworks to build web and mobile applications.",
+      "Gained hands-on experience in full-stack development, enhancing both front-end and back-end skills through practical, real-world projects.",
+    ],
+  },
   {
     title: "Software Engineer Fellow",
     company_name: "Fullstack Academy of Code",

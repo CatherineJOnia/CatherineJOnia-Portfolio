@@ -41,6 +41,7 @@ import Yama from "./experience/Yama.png";
 import tooth from "./experience/tooth.png";
 import cpcc from "./experience/cpcc.png";
 import uncc from "./experience/uncc.png";
+import inthelablogo from "./experience/inthelablogo.jpeg";
 
 export {
   engineer,
@@ -82,4 +83,5 @@ export {
   tooth,
   cpcc,
   uncc,
+  inthelablogo,
 };
