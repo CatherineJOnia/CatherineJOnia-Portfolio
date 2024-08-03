@@ -28,6 +28,7 @@ import ChatOnia from "./ChatOnia.png";
 import DinGo from "./DinGo.png";
 import ToadsGarden from "./ToadsGarden.png";
 import Hero from "./Hero.png";
+import RoundTrip from "./RoundTrip.png";
 
 import Kara from "./testimonials/Kara.jpeg";
 import Sarah from "./testimonials/Sarah.jpeg";
@@ -67,18 +68,23 @@ export {
   webpack,
   git,
   github,
+
   Onia,
   logo,
+
   ChatOnia,
   DinGo,
   ToadsGarden,
+  RoundTrip,
   Hero,
+  
   Kara,
   Sarah,
   Marcela,
   Lindsay,
   Madeleine,
   Trevor,
+
   Yama,
   tooth,
   cpcc,
