@@ -5,22 +5,29 @@ import game from "./game.png";
 
 import javascript from "./tech/javascript.png";
 import typescript from "./tech/typescript.png";
+import python from "./tech/python.png";
 import react from "./tech/react.png";
 import redux from "./tech/redux.png";
 import nextjs from "./tech/nextjs.png";
+import vitejs from "./tech/vitejs.png";
 import expressjs from "./tech/expressjs.png";
 import nodejs from "./tech/nodejs.png";
 import postgresql from "./tech/postgresql.png";
 import sequelize from "./tech/sequelize.png";
 import firebase from "./tech/firebase.png";
+import aws from "./tech/aws.png";
 import nextauthjs from "./tech/nextauthjs.png";
 import materialui from "./tech/materialui.svg";
 import css3 from "./tech/css3.png";
 import html5 from "./tech/html5.png";
 import tailwindcss from "./tech/tailwindcss.png";
 import webpack from "./tech/webpack.png";
+import flutterflow from "./tech/flutterflow.png";
+import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import github from "./tech/github.png";
+
+
 import Onia from "./Onia.png";
 import logo from "./logo.png";
 
@@ -53,20 +60,25 @@ export {
   fullstack,
   javascript,
   typescript,
+  python,
   react,
   redux,
   nextjs,
+  vitejs,
   expressjs,
   nodejs,
   postgresql,
   sequelize,
   firebase,
+  aws,
   nextauthjs,
   materialui,
   css3,
   html5,
   tailwindcss,
+  figma,
   webpack,
+  flutterflow,
   git,
   github,
 

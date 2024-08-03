@@ -9,6 +9,7 @@ import {
   react,
   redux,
   nextjs,
+  vitejs,
   expressjs,
   nodejs,
   postgresql,
@@ -103,6 +104,11 @@ export const technologies = [
     source_link: "https://nextjs.org/",
   },
   {
+    name: "Vite.js",
+    icon: vitejs,
+    source_link: "https://vitejs.dev/",
+  },
+  {
     name: "Express.js",
     icon: expressjs,
     source_link: "https://expressjs.com/",
@@ -151,6 +157,11 @@ export const technologies = [
     name: "Webpack",
     icon: webpack,
     source_link: " https://webpack.js.org/",
+  },
+  {
+    name: "GitHub",
+    icon: github,
+    source_link: "https://github.com/",
   },
   {
     name: "Git",
