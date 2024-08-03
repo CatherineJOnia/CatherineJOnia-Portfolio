@@ -6,6 +6,7 @@ import {
   fullstack,
   javascript,
   typescript,
+  python,
   react,
   redux,
   nextjs,
@@ -15,12 +16,15 @@ import {
   postgresql,
   sequelize,
   firebase,
+  aws,
   nextauthjs,
   materialui,
   css3,
   html5,
   tailwindcss,
+  figma,
   webpack,
+  flutterflow,
   git,
   github,
   ChatOnia,
@@ -89,6 +93,11 @@ export const technologies = [
     source_link: "https://www.typescriptlang.org/",
   },
   {
+    name: "Python",
+    icon: python,
+    source_link: "https://python.org/",
+  },
+  {
     name: "React",
     icon: react,
     source_link: "https://reactjs.org/",
@@ -134,6 +143,11 @@ export const technologies = [
     source_link: "https://firebase.google.com/",
   },
   {
+    name: "Amazon Web Services",
+    icon: aws,
+    source_link: "https://aws.amazon.com/",
+  },
+  {
     name: "Material UI",
     icon: materialui,
     source_link: "https://mui.com/",
@@ -154,9 +168,19 @@ export const technologies = [
     source_link: "https://tailwindcss.com/",
   },
   {
+    name: "Figma",
+    icon: figma,
+    source_link: "https://figma.com/",
+  },
+  {
     name: "Webpack",
     icon: webpack,
     source_link: " https://webpack.js.org/",
+  },
+  {
+    name: "Flutterflow",
+    icon: flutterflow,
+    source_link: "https://flutterflow.com/",
   },
   {
     name: "GitHub",
