@@ -545,12 +545,11 @@ export const backgrounds = [
     iconBg: "#ffffff",
     date: "February 2024 -  Present",
     points: [
-      "Assisted senior product managers in defining product vision and strategy, contributing to the development of a clear product roadmap.",
-      "Conducted market research and competitive analysis to identify customer needs and industry trends, informing product decisions and feature prioritization.",
+      "Assisted senior product managers in defining product vision and strategy, contributing to the development of a clear product roadmap by managing product backlog and prioritizing 50+ features.",
+      "Conducted market research and competitive analysis on 10+ competitors to identify customer needs and industry trends, informing product decisions and feature prioritization.",
       "Participated in the creation and maintenance of product documentation, including requirements specifications, user stories, and acceptance criteria.",
       "Utilized project management tools and software, such as Coda, Slack, and Trello to track progress, manage tasks, and report on project status.",
-      "Shadowed senior product managers to gain insights into strategic decision-making, product lifecycle management, and stakeholder communication.",
-      "Leveraged no-code application FlutterFlow to create a minimum viable product to present to senior product managers.",
+      "Leveraged no-code application FlutterFlow to create a minimum viable product to present to senior product managers, gaining insights into strategic decision-making, stakeholder communication, and product lifecycle management",
     ],
   },
   {
@@ -560,10 +559,9 @@ export const backgrounds = [
     iconBg: "#ffffff",
     date: "February 2023 -  Present",
     points: [
-      "Led a cross-functional team of five developers competing in a hackathon in designing and implementing a secure web application for travel planning based on points of interest.",
-      "Collaborated with a team of three developers to design, develop, and fully deploy an online video game, ensuring seamless gameplay and a user-friendly interface.",
-      "Utilized a variety of programming languages and frameworks to build web and mobile applications.",
-      "Gained hands-on experience in full-stack development, enhancing both front-end and back-end skills through practical, real-world projects.",
+      "Led a cross-functional team of 5 developers competing in a hackathon in designing and implementing a secure web application for travel planning based on points of interest.",
+      "Collaborated with a team of 3 developers to design, develop, and fully deploy an online video game, ensuring seamless gameplay and a user-friendly interface, with a debut player count of 200+ in one week.",
+      "Gained hands-on experience in full-stack development of mobilt and web applications, enhancing both front-end and back-end skills through practical, real-world projects utilizing a variety of programming languages and frameworks.",
     ],
   },
   {
@@ -588,9 +586,9 @@ export const backgrounds = [
     iconBg: "#000000",
     date: "February 2019 - February 2023",
     points: [
-      "Served 10-20 tables nightly in a fast-paced environment and effectively managed time to ensure an optimal experience for each guest.",
+      "Informally recognized as the lead server, and training and mentoring 22 new servers on company culture, company policies, and customer service standards",
+      "Served 15-20 tables nightly in a fast-paced environment and effectively managed time to ensure an optimal experience for each guest.",
       "Generated over $350,000 in annual revenue for the company.",
-      "Trained and mentored 100% of new employees on company culture, company policies, and customer service standards",
       "Navigated high-pressure situations -- such as rush hour, special events, and customer conflicts -- with ease and composure, ensuring smooth service delivery and customer satisfaction.",
     ],
   },
