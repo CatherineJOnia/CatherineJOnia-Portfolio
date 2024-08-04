@@ -586,7 +586,7 @@ export const backgrounds = [
     iconBg: "#000000",
     date: "February 2019 - February 2023",
     points: [
-      "Informally recognized as the lead server, and training and mentoring 22 new servers on company culture, company policies, and customer service standards",
+      "Informally recognized as the lead server, training and mentoring 22 new servers on company culture, company policies, and customer service standards",
       "Served 15-20 tables nightly in a fast-paced environment and effectively managed time to ensure an optimal experience for each guest.",
       "Generated over $350,000 in annual revenue for the company.",
       "Navigated high-pressure situations -- such as rush hour, special events, and customer conflicts -- with ease and composure, ensuring smooth service delivery and customer satisfaction.",
