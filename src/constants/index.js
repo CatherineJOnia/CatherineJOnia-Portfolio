@@ -201,10 +201,10 @@ export const projects = [
       "A trip planning application that allows users to create and organize a trip itinerary based on points of interest.",
     date: "December 2023",
     points: [
-      "Formally recognized as team lead of 5 developers competing in a hackathon, managing and approving 20+ pull reqquests and minimizing merge conflicts, maintaining code quality and consistency across the project.",
+      "Formally recognized as team lead of 5 developers competing in a hackathon, managing and approving 20+ pull requests and minimizing merge conflicts, maintaining code quality and consistency across the project.",
       "Developed and maintained a comprehensive project plan, including 15+ task assignments, resource allocation, and bi-weekly deadlines to ensure smooth project execution within the 6-week hackathon timeframe across 3 time zones.",
       "Directed the design and implementation of 10+ front-end features with 2 front-end developers to create a responsive and intuitive user interface.",
-      "Collaborated with 3mback-end developers to ensure seamless integration of 2 APIs and data flow, aligning front-end functionalities with the overall system architecture.",
+      "Collaborated with 3 back-end developers to ensure seamless integration of 2 APIs and data flow, aligning front-end functionalities with the overall system architecture.",
       "Presented the final project demo to hackathon judges and participants, showcasing key features, technical challenges overcome, and the overall value proposition of the application.",
     ],
     tags: [
@@ -561,7 +561,7 @@ export const backgrounds = [
     points: [
       "Led a cross-functional team of 5 developers competing in a hackathon in designing and implementing a secure web application for travel planning based on points of interest.",
       "Collaborated with a team of 3 developers to design, develop, and fully deploy an online video game, ensuring seamless gameplay and a user-friendly interface, with a debut player count of 200+ in one week.",
-      "Gained hands-on experience in full-stack development of mobilt and web applications, enhancing both front-end and back-end skills through practical, real-world projects utilizing a variety of programming languages and frameworks.",
+      "Gained hands-on experience in full-stack development of mobile and web applications, enhancing both front-end and back-end skills through practical, real-world projects utilizing a variety of programming languages and frameworks.",
     ],
   },
   {
