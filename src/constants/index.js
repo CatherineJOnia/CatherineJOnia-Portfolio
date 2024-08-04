@@ -201,11 +201,10 @@ export const projects = [
       "A trip planning application that allows users to create and organize a trip itinerary based on points of interest.",
     date: "December 2023",
     points: [
-      "Formally recognized as team lead of five developers competing in a six-week hackathon.",
-      "Developed and maintained a comprehensive project plan, including task assignments, resource allocation, and deadlines to ensure smooth project execution.",
-      "Managed and approved all pull requests and minimized merge conflicts, streamlining the code integration process and maintaining code quality and consistency across the project.",
-      "Directed the design and implementation of front-end features to create a responsive and intuitive user interface.",
-      "Collaborated with back-end developers to ensure seamless integration of APIs and data flow, aligning front-end functionalities with the overall system architecture.",
+      "Formally recognized as team lead of 5 developers competing in a hackathon, managing and approving 20+ pull reqquests and minimizing merge conflicts, maintaining code quality and consistency across the project.",
+      "Developed and maintained a comprehensive project plan, including 15+ task assignments, resource allocation, and bi-weekly deadlines to ensure smooth project execution within the 6-week hackathon timeframe across 3 time zones.",
+      "Directed the design and implementation of 10+ front-end features with 2 front-end developers to create a responsive and intuitive user interface.",
+      "Collaborated with 3mback-end developers to ensure seamless integration of 2 APIs and data flow, aligning front-end functionalities with the overall system architecture.",
       "Presented the final project demo to hackathon judges and participants, showcasing key features, technical challenges overcome, and the overall value proposition of the application.",
     ],
     tags: [
@@ -414,11 +413,10 @@ export const projects = [
       "A mobile friendship-making application that centers around facilitating authentic in-person interactions",
     date: "June 2024",
     points: [
-      "Led a cross-functional team of three apprentice product managers in conceptualizing, designing, and developing a mobile application using Flutterflow.",
-      "Collaborated closely with stakeholders to gather and prioritize user requirements, ensuring alignment with business objectives and user needs.",
-      "Designed intuitive UI/UX flows and wireframes using Figma, resulting in a streamlined user experience and cohesive visual design.",
+      "Led an interdisciplinary team of 3 apprentice product managers in conceptualizing, designing, and developing a mobile application using Flutterflow, Trello, Coda, and Slack.",
+      "Designed intuitive UI/UX flows and 45+ wireframes using Figma, resulting in a streamlined user experience and cohesive visual design.",
       "Iteratively tested and refined application features through usability testing and user feedback, implementing necessary adjustments to enhance overall user experience.",
-      "Presented final application prototype to senior product managers, highlighting key features and user journey, demonstrating the ability to manage end-to-end product developemnt process.",
+      "Presented final application prototype to a panel of 5 senior product managers, successfully showcasing key features and user journey, demonstrating the ability to manage end-to-end product developemnt processes.",
     ],
     tags: [
       {

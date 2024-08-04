@@ -18,7 +18,7 @@ const Footer = () => {
               bgColor="transparent"
             />
             <SocialIcon
-              url="https://medium.com/catherinejonia"
+              url="https://medium.com/@catherinejonia"
               fgColor="white"
               bgColor="transparent"
             />
